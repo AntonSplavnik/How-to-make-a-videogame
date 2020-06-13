@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{238D301E-5768-54A9-9A47-9F7D6AFE4D0F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Credits.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controls/BetterJump.cs">
     <Files>
-      <File FileName="Assets/Scripts/Menu.cs" Line="10" Column="1" />
-      <File FileName="Assets/Scripts/Credits.cs" Line="13" Column="37" />
+      <File FileName="Assets/Scripts/Controls/PlyerMovementJoystick.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/Controls/BetterJump.cs" Line="15" Column="40" />
+      <File FileName="Assets/Scripts/Controls/Joybutton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controls/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="23" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,17 +13,24 @@
           <Node name="How to make a Videogame" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Credits.cs" selected="True" />
+                <Node name="Controls" expanded="True">
+                  <Node name="BetterJump.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="How to make a Videogame" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea4ff09a-0b4b-44b8-90c2-b7407c073d8b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf2dd1a2-4e94-47f2-8f18-d03ec64b92bd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -660,10 +660,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 71ca28d8-edac-4a16-8e97-7201683dc8d4
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: CubeD (1)
+  organizationId: dd5e259-f7ed-4731-be86-9474c25c370f
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

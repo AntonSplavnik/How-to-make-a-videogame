@@ -3,12 +3,21 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public void StarGame ()
+    //public void StartGame_Nexlevel ()
+    //{
+
+    // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);   
+    //}
+
+    public void StartGame ()
+
     {
-
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-
+        SceneManager.LoadSceneAsync("Level1", LoadSceneMode.Single);
     }
 
+    public void SelectLevel ()
+    {
+        SceneManager.LoadSceneAsync("SelectLevel", LoadSceneMode.Single);
+    }
    
 }

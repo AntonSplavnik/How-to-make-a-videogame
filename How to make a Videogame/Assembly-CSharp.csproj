@@ -78,7 +78,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-    <Compile Include="Assets\Scripts\BetterJump.cs" />
+    <Compile Include="Assets\Scripts\Controls\BetterJump.cs" />
+    <Compile Include="Assets\Scripts\Controls\Joybutton.cs" />
+    <Compile Include="Assets\Scripts\Controls\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Controls\PlyerMovementJoystick.cs" />
     <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\EndTrigger.cs" />
     <Compile Include="Assets\Scripts\FollowPlyaer.cs" />
@@ -86,9 +89,8 @@
     <Compile Include="Assets\Scripts\LevelComplete.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovementMobile.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
+    <Compile Include="Assets\Scripts\SelectLevel.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Volumes/Secondary 1 Tb/Git/How-to-make-a-videogame/How to make a Videogame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
