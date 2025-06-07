@@ -1,5 +1,5 @@
 <p align="center">
-  <b><font size="20">Cube D</font></b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=28C4E4&center=true&vCenter=true&width=450&lines=Cube+D" alt="Cube D"/>
 </p>
 
 A simple and fun 3D Unity game for beginners and game development enthusiasts.
