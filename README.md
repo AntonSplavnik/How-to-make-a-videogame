@@ -1,46 +1,61 @@
-# Cube D
-
-A simple and fun 3D Unity game for beginners and game development enthusiasts.
-
-## Game Overview
-
-**Cube D** puts you in control of a cube moving forward on a 3D plane filled with obstacles.  
-Your objective: **Dodge every obstacle and reach the end of each level to unlock new stages.**
-
-- **Genre:** 3D Runner / Level-based  
-- **Mechanics:** Move left and right to avoid obstacles  
-- **Goal:** Complete levels without crashing
-
-## Features
-
-- Made with Unity
-- Minimalist 3D visuals
-- User interface (UI) for navigation and gameplay
-- Level selection menu
-- 5 handcrafted levels
-- Smooth, intuitive controls
-
-## Planned Features
-
-- High-score system  
-- Different environments and visual themes  
-- Unlockable boosts and power-ups  
-- Skins: unlock new appearances for your cube
-
-## Screenshots
-
-<!-- Add your screenshots here -->
+<!-- Banner image (optional, but looks great for marketing) -->
 <p align="center">
-  <img src="screenshots/gameplay1.png" width="400"/>
-  <img src="screenshots/gameplay2.png" width="400"/>
+  <img src="screenshots/cube-d-banner.png" alt="Cube D Banner" width="600"/>
 </p>
 
-## About
+# Cube D
 
-This is a preview build of a beginner Unity project.  
-Stay tuned for new features, more content, and improvements in future updates!
+<p align="center">
+  <i>Race. Dodge. Unlock. Conquer every level!</i>
+</p>
 
 ---
 
-**Made with Unity**  
-*Created for learning and experimenting with 3D game development.*
+**Cube D** is a fast-paced, addictive 3D game where you guide a cube through dynamic obstacle courses. Test your reflexes, unlock new levels, and customize your style as you push your skills to the limit.
+
+---
+
+## 🚀 Features
+
+- **5 handcrafted levels** — Each one more challenging than the last
+- **Intuitive controls** — Instantly pick up and play
+- **Level selection** — Jump to your favorite challenge
+- **Clean, minimalist visuals** — Focus on the action
+- **UI designed for easy navigation**
+
+---
+
+## 🥇 What’s Next?
+
+- **High-score leaderboards** — Compete with friends
+- **New environments & themes** — Explore fresh worlds
+- **Power-ups & boosts** — Gain an edge on tough levels
+- **Unlockable cube skins** — Show off your achievements
+
+---
+
+## 🎮 Screenshots
+
+<p align="center">
+  <img src="screenshots/gameplay1.png" width="350"/>
+  <img src="screenshots/gameplay2.png" width="350"/>
+</p>
+
+---
+
+## 💡 Why Play Cube D?
+
+- **Instant fun:** No long tutorials. Jump right in!
+- **Skill-based challenge:** Easy to play, tough to master.
+- **Future updates:** More content on the way—help shape the game with your feedback!
+
+---
+
+<p align="center">
+  <b>Follow the project, try the demo, and join the Cube D community!</b>
+</p>
+
+---
+
+<!-- Add links or badges here if you wish, e.g. "Play Now", "Wishlist", etc. -->
+
