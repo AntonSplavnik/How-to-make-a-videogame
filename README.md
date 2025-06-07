@@ -1,4 +1,4 @@
-<p align="center"><b><font size="20">Cube D</font></b></p>
+<p align="center"><b><font size="40">Cube D</font></b></p>
 
 
 A simple and fun 3D Unity game for beginners and game development enthusiasts.
