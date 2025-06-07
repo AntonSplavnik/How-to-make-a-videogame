@@ -1,9 +1,7 @@
-<!-- Banner image (optional, but looks great for marketing) -->
 <p align="center">
-  <img src="screenshots/cube-d-banner.png" alt="Cube D Banner" width="600"/>
+<!--   <img src="screenshots/cube-d-banner_920x430.png" alt="CubeD Banner" width="920" height="430"> -->
+  <img src="screenshots/cube-d-banner_900x300.png" alt="CubeD Banner">
 </p>
-
-# Cube D
 
 <p align="center">
   <i>Race. Dodge. Unlock. Conquer every level!</i>
