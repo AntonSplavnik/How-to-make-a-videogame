@@ -1,4 +1,6 @@
-# Cube D
+<p align="center">
+  <h1>Cube D</h1>
+</p>
 
 A simple and fun 3D Unity game for beginners and game development enthusiasts.
 
