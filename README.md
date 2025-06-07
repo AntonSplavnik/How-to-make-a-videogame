@@ -1,5 +1,5 @@
 <p align="center">
-  <b><font size="6">Cube D</font></b>
+  <b><font size="20">Cube D</font></b>
 </p>
 
 A simple and fun 3D Unity game for beginners and game development enthusiasts.
