@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **5 handcrafted levels** — Each one more challenging than the last
 - **Intuitive controls** — Instantly pick up and play
@@ -23,7 +23,7 @@
 
 ---
 
-## 🥇 What’s Next?
+## What’s Next?
 
 - **High-score leaderboards** — Compete with friends
 - **New environments & themes** — Explore fresh worlds
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎮 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/gameplay1.png" width="350"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 💡 Why Play Cube D?
+## Why Play Cube D?
 
 - **Instant fun:** No long tutorials. Jump right in!
 - **Skill-based challenge:** Easy to play, tough to master.
